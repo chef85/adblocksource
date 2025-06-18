@@ -6,5 +6,6 @@ yandex.ru##div[class*="MainPage_topBlockWithMoney"]
 yandex.ru##div[class*="AppForecastMoney"]
 yandex.ru##div[class*="moneyContainer"]
 yandex.ru##div[class*="AppMoney"]
-yandex.ru##article[class*="AppBlog"]
 yandex.ru##div[class*="AppWellBeing"]
+yandex.ru##article[class*="AppBlog"]
+

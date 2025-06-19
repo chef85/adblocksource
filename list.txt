@@ -5,3 +5,4 @@
 yandex.ru##div#money-top
 yandex.ru##div#money-middle_up
 yandex.ru##div#money-middle_down
+yandex.ru##div#money-bottom

@@ -2,7 +2,6 @@
 ! Author: ShevchenkoAV
 
 ! 18.06.2024 https://yandex.ru/pogoda/
-yandex.ru##div[id="money-middle_up"]
 yandex.ru##div[class*="topBlockWithMoney"]
 yandex.ru##div[class*="MainPage_topBlockWithMoney"]
 yandex.ru##div[class*="AppForecastMoney"]

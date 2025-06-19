@@ -2,5 +2,4 @@
 ! Author: ShevchenkoAV
 
 ! 19.06.2024 https://yandex.ru/pogoda/
-yandex.ru##div[class*="Money"]
-
+yandex.ru##div#money-middle_down

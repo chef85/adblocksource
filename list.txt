@@ -6,7 +6,7 @@ yandex.ru##div#money-top
 yandex.ru##div#money-middle_up
 yandex.ru##div#money-middle_down
 yandex.ru##div#money-bottom
-yandex.ru##div#[class*="topBlockWithMoney"]
-yandex.ru##li#[class*="AppForecastMoney"]
-yandex.ru##div#[class*="moneyContainer"]
-yandex.ru##section#[class*="Money_ecomFooter"]
+yandex.ru##div[class*="topBlockWithMoney"]
+yandex.ru##li[class*="AppForecastMoney"]
+yandex.ru##div[class*="moneyContainer"]
+yandex.ru##section[class*="Money_ecomFooter"]

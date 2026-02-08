@@ -1,7 +1,7 @@
 ! Title: _AD_BLOCK
 ! Author: ShevchenkoAV
 
-! 25.11.2025 https://yandex.ru/pogoda/
+! 08.02.2026 https://yandex.ru/pogoda/
 yandex.ru##div#money-top
 yandex.ru##div#money-middle_up
 yandex.ru##div#money-middle_down

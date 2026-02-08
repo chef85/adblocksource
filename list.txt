@@ -2,14 +2,15 @@
 ! Author: ShevchenkoAV
 
 ! 08.02.2026 https://yandex.ru/pogoda/
-yandex.ru##div#money-top
-yandex.ru##div#money-middle_up
-yandex.ru##div#money-middle_down
 yandex.ru##div#money-bottom
+yandex.ru##div#money-middle_down
+yandex.ru##div#money-middle_up
+yandex.ru##div#money-top
+yandex.ru##div[class*="AppMoneySidebar"]
+yandex.ru##div[class*="MainPage_topBlockWithMoney"]
+yandex.ru##div[class*="MainPage_topBlockWithMoney_up__"]
+yandex.ru##div[class*="moneyContainer"]
 yandex.ru##div[class*="topBlockWithMoney"]
 yandex.ru##li[class*="AppForecastMoney"]
 yandex.ru##li[class*=AppForecastMoney_wrap__"]
-yandex.ru##div[class*="moneyContainer"]
-yandex.ru##div[class*="AppMoneySidebar"]
 yandex.ru##section[class*="Money_ecomFooter"]
-yandex.ru##div[class*="MainPage_topBlockWithMoney"]

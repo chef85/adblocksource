@@ -14,6 +14,7 @@ yandex.ru##div[class*="topBlockWithMoney"]
 yandex.ru##li[class*="AppForecastMoney"]
 yandex.ru##li[class*=AppForecastMoney_wrap__"]
 yandex.ru##section[class*="Money_ecomFooter"]
+yandex.ru##div[class*="AppMoneySidebar"]
 
 ! 11.02.2026 https://www.verbformen.ru/
 verbformen.ru##div.aAnz

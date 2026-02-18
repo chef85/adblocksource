@@ -15,5 +15,5 @@ yandex.ru##li[class*="AppForecastMoney"]
 yandex.ru##li[class*=AppForecastMoney_wrap__"]
 yandex.ru##section[class*="Money_ecomFooter"]
 
-! 11.02.2026 https://www.verbformen.ru/
+! 18.02.2026 https://www.verbformen.ru/
 verbformen.ru## #verbformen.ru_lb_2

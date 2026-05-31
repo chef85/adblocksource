@@ -7,6 +7,8 @@ yandex.ru##.AppMoney_wrap_
 yandex.ru##[class*="AppMoney_"]
 yandex.ru##[class*="MainPage_moneyContainer"]
 yandex.ru##[class*="MainPage_topBlockWithMoney"]
+yandex.ru##[id*="R-I-"]
+
 
 ! 18.02.2026 https://www.verbformen.ru/
 verbformen.ru## #verbformen.ru_lb_2

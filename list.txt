@@ -4,6 +4,9 @@
 ! 31.05.2026 https://yandex.ru/pogoda/
 yandex.ru##[id$="_main_direct_sale"]
 yandex.ru##.AppMoney_wrap_
+yandex.ru##[class*="AppMoney_"]
+yandex.ru##[class*="MainPage_moneyContainer"]
+yandex.ru##[class*="MainPage_topBlockWithMoney"]
 
 ! 18.02.2026 https://www.verbformen.ru/
 verbformen.ru## #verbformen.ru_lb_2

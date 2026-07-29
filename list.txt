@@ -13,3 +13,4 @@ yandex.ru##[id*="R-I-"]
 ! 29.07.2026 https://www.verbformen.ru/
 verbformen.ru## #verbformen.ru_lb_2
 verbformen.ru## div.aArtLng
+verbformen.ru## div.aAnz

@@ -1,7 +1,7 @@
 ! Title: _AD_BLOCK
 ! Author: ShevchenkoAV
 
-! 31.05.2026 https://yandex.ru/pogoda/
+! 01.08.2026 https://yandex.ru/pogoda/
 yandex.ru##[id$="_main_direct_sale"]
 yandex.ru##.AppMoney_wrap_
 yandex.ru##[class*="AppMoney_"]

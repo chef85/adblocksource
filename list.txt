@@ -18,3 +18,4 @@ verbformen.ru## div.aAnz
 ! 26.09.2026 https://nnmclub.to/
 nnmclub.to## #tumbler-nnm-branding
 nnmclub.to##.wrap:style(top: 0 !important; position: relative !important)
+nnmclub.to##+js(replace, "document.querySelector('.wrap').style.top = '200px';", "")

@@ -14,3 +14,7 @@ yandex.ru##div[data-chunk="discovery-home"]
 verbformen.ru## #verbformen.ru_lb_2
 verbformen.ru## div.aArtLng
 verbformen.ru## div.aAnz
+
+! 26.09.2026 https://nnmclub.to/
+nnmclub.to## #tumbler-nnm-branding
+nnmclub.to##div.wrap:remove-attr(style)

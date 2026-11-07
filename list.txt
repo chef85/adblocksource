@@ -17,6 +17,7 @@ verbformen.ru## div.aAnz
 
 ! 07.11.2026 https://www.verbformen.net
 verbformen.net##div.aAnz.aArtLng
+verbformen.net##div.aAnz.aDnb
 
 ! 26.09.2026 https://nnmclub.to/
 nnmclub.to## #tumbler-nnm-branding

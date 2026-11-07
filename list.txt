@@ -15,6 +15,11 @@ verbformen.ru## #verbformen.ru_lb_2
 verbformen.ru## div.aArtLng
 verbformen.ru## div.aAnz
 
+! 07.11.2026 https://www.verbformen.net
+verbformen.net## #verbformen.ru_lb_2
+verbformen.net## div.aArtLng
+verbformen.net## div.aAnz
+
 ! 26.09.2026 https://nnmclub.to/
 nnmclub.to## #tumbler-nnm-branding
 nnmclub.to##.wrap:style(top: 0 !important; position: relative !important)
